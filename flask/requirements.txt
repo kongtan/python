@@ -1,0 +1,14 @@
+Click==7.0
+django==2.2b1
+Flask==1.0.2
+get==2019.4.13
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+post==2019.4.13
+public==2019.4.13
+pytz==2018.9
+query-string==2019.4.13
+sqlparse==0.2.4
+virtualenv==16.4.3
+Werkzeug==0.15.2
