@@ -1,6 +1,7 @@
 from flask import Flask
 from flask import make_response
 import json
+from templates import douban
 
 app = Flask(__name__)
 
@@ -11,7 +12,7 @@ a = json.dumps({
 
 @app.route('/')
 def hello_world():
-    rst = make_response(a)
+    rst = make_response(douban.getDouBanReMen())
     rst.headers['Access-Control-Allow-Origin'] = '*'
     # rst.headers['Access-Control-Allow-Credentials'] = True
     return rst
