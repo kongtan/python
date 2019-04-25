@@ -13,6 +13,7 @@ a = json.dumps({
 @app.route('/')
 def hello_world():
     rst = make_response(douban.getDouBanReMen())
+    # rst = make_response(a)
     rst.headers['Access-Control-Allow-Origin'] = '*'
     # rst.headers['Access-Control-Allow-Credentials'] = True
     return rst
