@@ -15,7 +15,6 @@ def getDouBanReMen():
     resource = response.text
     return resource
 
-getDouBanReMen()
 
 def typeof(variate):
     type = None
