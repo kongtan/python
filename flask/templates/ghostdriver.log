@@ -1,17 +1,5 @@
-[INFO  - 2019-04-24T09:02:04.449Z] GhostDriver - Main - running on port 57549
-[INFO  - 2019-04-24T09:02:04.920Z] Session [a18ac520-666f-11e9-be36-e95c01a7426a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2019-04-24T09:02:04.920Z] Session [a18ac520-666f-11e9-be36-e95c01a7426a] - page.customHeaders:  - {}
-[INFO  - 2019-04-24T09:02:04.920Z] Session [a18ac520-666f-11e9-be36-e95c01a7426a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2019-04-24T09:02:04.920Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a18ac520-666f-11e9-be36-e95c01a7426a
-[ERROR - 2019-04-24T09:02:05.435Z] Session [a18ac520-666f-11e9-be36-e95c01a7426a] - page.onError - msg: TypeError: undefined is not an object (evaluating '$.locationCity(n.city)[1]')
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2019-04-24T09:02:05.435Z] Session [a18ac520-666f-11e9-be36-e95c01a7426a] - page.onError - stack:
-  a (https://file.40017.cn/tcweb/touch/home/js/home.0.0.5.js?v=1556089550882:3)
-  (anonymous function) (https://file.40017.cn/tcweb/touch/home/js/home.0.0.5.js?v=1556089550882:3)
-  success (https://js.40017.cn/cn/min/??/touch/public/common/0.7.5/common.js,/touch/hb/c/webp/webpjs.min.js,/touch/public/slider/0.0.2/slider.js,/touch/public/location/0.0.6/location.js,/touch/public/location/0.0.1/locationCity.js,/touch/public/page/0.0.2/page.js,/touch/c/des/city.js,/touch/public/autoComplete/0.0.1/autoComplete.js,/touch/public/countDown/0.0.1/countDown.js,/touch/hb/p/openApp.js?v=1556089550882:1)
-  h (https://js.40017.cn/touch/public/zepto.1.2.0.js:1)
-  (anonymous function) (https://js.40017.cn/touch/public/zepto.1.2.0.js:1)
-  proxy (https://js.40017.cn/touch/public/zepto.1.2.0.js:1)
-
-  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-04-29T02:39:08.532Z] GhostDriver - Main - running on port 58393
+[INFO  - 2019-04-29T02:39:08.906Z] Session [f6d60240-6a27-11e9-b422-a1270935ef64] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-04-29T02:39:08.906Z] Session [f6d60240-6a27-11e9-b422-a1270935ef64] - page.customHeaders:  - {}
+[INFO  - 2019-04-29T02:39:08.906Z] Session [f6d60240-6a27-11e9-b422-a1270935ef64] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-04-29T02:39:08.906Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f6d60240-6a27-11e9-b422-a1270935ef64
